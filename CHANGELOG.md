@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.2
+
+- README: link to Salesforce Migration Validator. No functional changes.
+
+## 0.1.1
+
+- Improved Marketplace keywords/description.
+
 ## 0.1.0 — first public version
 
 - Compare two orgs authenticated in the Salesforce CLI. No credentials are requested or stored.

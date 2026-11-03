@@ -92,6 +92,10 @@ Comparisons only read from your orgs. The extension never deploys or changes any
 - Page layout *contents* (which fields appear on a layout) are not compared yet. Assignments are.
 - Very large orgs: *Custom fields* and *Profiles & permission sets* are the slowest categories.
 
+## More Salesforce QA tools
+
+- **[Salesforce Migration Validator – Data Reconciliation for QA](https://marketplace.visualstudio.com/items?itemName=AndrsGarcaRamrez.salesforce-migration-validator-qa)** — validate a data migration into Salesforce (CSV vs org, field by field).
+
 ---
 
 ## En español
