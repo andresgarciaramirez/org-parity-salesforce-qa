@@ -95,6 +95,7 @@ Comparisons only read from your orgs. The extension never deploys or changes any
 ## More Salesforce QA tools
 
 - **[Salesforce Migration Validator – Data Reconciliation for QA](https://marketplace.visualstudio.com/items?itemName=AndrsGarcaRamrez.salesforce-migration-validator-qa)** — validate a data migration into Salesforce (CSV vs org, field by field).
+- **[Salesforce Impact Analyzer – Where Used for QA](https://marketplace.visualstudio.com/items?itemName=AndrsGarcaRamrez.salesforce-impact-analyzer-qa)** — see everything that references a field or object before you change it (Dependency API + source scan, honest coverage).
 
 ---
 
